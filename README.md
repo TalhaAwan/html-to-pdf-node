@@ -18,6 +18,6 @@ It will generate the example PDFs from the scripts in the example folder.
 ## Blog Posts
 
 - [Convert HTML to PDF in Node Without Headless Browser](https://www.techighness.com/post/convert-html-to-pdf-node-without-headless-browser/)
-- [Populate Image URLs in Node HTML to PDF conversion](https://www.techighness.com/post/post/node-html-to-pdf-populate-image-urls-axios-base64/)
+- [Populate Image URLs in Node HTML to PDF conversion](https://www.techighness.com/post/node-html-to-pdf-populate-image-urls-axios-base64/)
 
 
