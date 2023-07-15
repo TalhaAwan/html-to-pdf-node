@@ -1,0 +1,21 @@
+{
+  "name": "html-to-pdf-node",
+  "version": "1.0.0",
+  "description": "script to convert html to pdf on nodejs",
+  "main": "index.js",
+  "scripts": {
+    "generate": "cd examples && node html-to-pdf && node html-to-pdf-with-image.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "html-to-pdfmake": "^2.4.22",
+    "jsdom": "^22.1.0",
+    "pdfmake": "^0.2.7"
+  },
+  "keywords": [
+    "html",
+    "pdf"
+  ],
+  "author": "Talha Awan",
+  "license": "ISC"
+}
